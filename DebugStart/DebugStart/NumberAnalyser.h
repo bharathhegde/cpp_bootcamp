@@ -9,6 +9,7 @@ class NumberAnalyser
 		int mOddNumbers;
 		int mEvenNumbers;
 		int mPrimeNumbers;
+
 }
 
 #endif
